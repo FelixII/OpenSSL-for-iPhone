@@ -543,4 +543,3 @@ if [ ${#OPENSSLCONF_ALL[@]} -gt 1 ]; then
 fi
 
 echo "Done."
-
